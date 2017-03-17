@@ -1,0 +1,1 @@
+cmd_/home/lzy/learngit/gitskills/modparm/modtest.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/lzy/learngit/gitskills/modparm/modtest.ko /home/lzy/learngit/gitskills/modparm/modtest.o /home/lzy/learngit/gitskills/modparm/modtest.mod.o
