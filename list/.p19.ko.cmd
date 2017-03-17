@@ -1,0 +1,1 @@
+cmd_/home/lzy/learngit/gitskills/list/p19.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/lzy/learngit/gitskills/list/p19.ko /home/lzy/learngit/gitskills/list/p19.o /home/lzy/learngit/gitskills/list/p19.mod.o
