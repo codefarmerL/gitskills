@@ -1,0 +1,1 @@
+cmd_/home/lzy/learngit/gitskills/process/list1/list1.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/lzy/learngit/gitskills/process/list1/list1.ko /home/lzy/learngit/gitskills/process/list1/list1.o /home/lzy/learngit/gitskills/process/list1/list1.mod.o

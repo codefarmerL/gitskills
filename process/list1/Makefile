@@ -1,5 +1,5 @@
 ifneq ($(KERNELRELEASE),)
-	obj-m:=modtest.o
+	obj-m:=list1.o
 else
 	KDIR:=/lib/modules/$(shell uname -r)/build
 	PWD:=$(shell pwd)
